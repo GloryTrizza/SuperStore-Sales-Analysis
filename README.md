@@ -1,5 +1,6 @@
 # SuperStore-Sales-Analysis using Tableau
 This is an analysis of SuperStore sales data using Tableau. The data contains information about sales for different products sold in various regions in the USA.
+Tableau Link: https://public.tableau.com/app/profile/glory.onyango/viz/SuperStoreSalesAnalysisI/SuperStoreSales
 
 ## Analysis
 The analysis was conducted using Tableau. The following insights were discovered:
