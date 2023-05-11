@@ -1,7 +1,7 @@
 # SuperStore-Sales-Analysis using Tableau
 This is an analysis of SuperStore sales data using Tableau. The data contains information about sales for different products sold in various regions in the USA.
 
-##Analysis
+## Analysis
 The analysis was conducted using Tableau. The following insights were discovered:
 - The overall sales trend shows a steady increase.
 - The sub-category with the highest sales was Phones, followed by Chairs and Storage.
